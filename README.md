@@ -1,1 +1,3 @@
 Software Engineering Homework - Campus Management System (CMS)
+
+A modern web-based Campus Management System designed for mid-sized universities to streamline academic and administrative operations. The CMS supports multiple user roles including students, professors, administrators, and IT staff. Key features include course registration, grade management, attendance tracking, student progress monitoring, event scheduling, and campus-wide notifications. Built with scalability, performance, and data privacy in mind, the system is designed for real-time access by over 15,000 users and future integration with mobile apps and third-party services (e.g., email and SMS).
